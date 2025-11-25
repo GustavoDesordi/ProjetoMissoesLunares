@@ -1,0 +1,44 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# VSCode settings
+.vscode/
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+out/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Java crash files
+hs_err_pid*
+replay_pid*
+
+# Bin files generated manually
+*.bin
